@@ -1,0 +1,17 @@
+date,city,category,product,quantity,unit_price
+2026-01-03,Pune,Electronics,Wireless Mouse,5,499
+2026-01-05,Kolhapur,Stationery,Notebook,20,60
+2026-01-08,Mumbai,Electronics,Keyboard,3,899
+2026-01-12,Pune,Home,Desk Lamp,4,699
+2026-02-02,Kolhapur,Electronics,USB Drive,8,399
+2026-02-07,Mumbai,Stationery,Pen Set,15,120
+2026-02-14,Pune,Home,Water Bottle,10,249
+2026-02-19,Kolhapur,Electronics,Headphones,2,1499
+2026-03-01,Mumbai,Home,Storage Box,6,349
+2026-03-06,Pune,Stationery,Notebook,25,60
+2026-03-11,Kolhapur,Electronics,Keyboard,4,899
+2026-03-18,Mumbai,Electronics,Wireless Mouse,7,499
+2026-04-04,Pune,Home,Desk Lamp,5,699
+2026-04-09,Kolhapur,Stationery,Pen Set,18,120
+2026-04-15,Mumbai,Electronics,USB Drive,10,399
+2026-04-22,Pune,Electronics,Headphones,3,1499
